@@ -9,3 +9,4 @@ A neat little dungeon crawler with swords. Heavily based on Enter The Gungeon.
 * Fixed basic sword movement
 * Hand switching added
 * Updated basic sword
+* Added Anim Switching (now based on movement)
