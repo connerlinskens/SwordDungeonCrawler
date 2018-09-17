@@ -12,3 +12,4 @@ A neat little dungeon crawler with swords. Heavily based on Enter The Gungeon.
 * Added Anim Switching (now based on movement)
 * Anim Switching now based on look direction'
 * Added Camera Movement
+* Basic Attack Logic added
